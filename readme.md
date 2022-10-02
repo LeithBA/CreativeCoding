@@ -39,3 +39,10 @@ Here are some popular technologies used for creative coding. These can be deksto
 #### Touch Designer
 - [Elekktronaut](https://www.youtube.com/c/bileamtschepe "Elekktronaut")
 - [The Interactive & Immersive HQ](https://www.youtube.com/c/TheInteractiveImmersiveHQ "The Interactive & Immersive HQ")
+
+## Books
+
+- [Code as Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/ "Code as Creative Medium")
+- [Generative Design](http://www.generative-gestaltung.de "Generative Design")
+- [The Nature of Code](https://www.amazon.com/gp/product/0985930802/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0985930802&linkCode=as2&tag=natureofcode-20 "The Nature of Code")
+- [Learning Processing](https://www.amazon.com/Learning-Processing-Second-Edition-Programming/dp/0123944430/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=learniproces-20&linkId=757eff7b49e61c381b17a43c7dec3eee "Learning Processing")
