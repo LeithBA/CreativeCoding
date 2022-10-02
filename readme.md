@@ -8,18 +8,18 @@ Anything goes.
 
 Here are some popular technologies used for creative coding. These can be dekstop softwares, libraries, apps, hardware or anything else.
 
-- Processing
-- p5.js
-- vvvv
-- Touch Designer
-- KodeLife
-- Three.js
-- Tooll3
-- Hydra
-- Tidal Cycles
-- Pure Data
-- SuperCollider
-- OpenFrameworks
+- [Processing](https://processing.org/ "Processing")
+- [p5.js](https://p5js.org/ "p5.js")
+- [vvvv](https://vvvv.org/ "vvvv")
+- [Touch Designer](https://derivative.ca/ "Touch Designer")
+- [KodeLife](https://hexler.net/kodelife "KodeLife")
+- [Three.js](https://threejs.org/ "Three.js")
+- [Tooll3](https://github.com/XTRA26/tooll3 "Tooll3")
+- [Hydra](hydra.ojack.xyz "Hydra")
+- [Tidal Cycles](https://tidalcycles.org/ "Tidal Cycles")
+- [Pure Data](https://puredata.info/ "Pure Data")
+- [SuperCollider](https://supercollider.github.io/ "SuperCollider")
+- [OpenFrameworks](https://openframeworks.cc/ "OpenFrameworks")
 
 ## Tutorials
 
